@@ -173,7 +173,6 @@
 	font-family: "Roboto", "Arial", sans-serif;
 	font-size: 14px;
 	font-weight: 900;
-	color: #000000;
 	line-height: 36px;
 	text-align: left;
 }
@@ -193,6 +192,7 @@
 	height: 36px;
 	display: block;
 	padding: 0;
+	color: #000000;
 	padding-left: 40px;
 	margin: 0;
 /*	border: 1px solid black;*/
